@@ -1,0 +1,36 @@
+body {margin: 0px;}
+#BODY{
+    margin: 0 15%;
+    background: #F0F0F0;
+    font: 16px "Microsoft YaHei", sans-serif;
+}
+header {
+    height: 70px;
+    margin-bottom: 1em;
+    background: #8E8CD8;
+    font: bold 25px sans-serif;/*font-size*/
+    line-height: 70px;
+    color: white;
+    text-indent: 2em;/*text-indent*/
+}
+nav {
+    margin: 1em 0;
+    text-align: center;
+}
+nav li {
+    display: inline-block;
+    margin: 0 0.1em;
+    padding: 0.3em 1em;
+ 
+    box-sizing: border-box;
+    background-color: #8E8CD8;
+    border: #8E8CD8 1px solid;
+    border-radius: 0 10px;
+}
+nav li a:link, nav li a:visited {
+    color: white;
+    text-decoration: none;
+}
+nav li a:hover {
+    font-weight: bold;
+}
