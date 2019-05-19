@@ -38,8 +38,8 @@ nav li a:hover {
 .a
 {
 margin:30px;
-width:200px;
-height:100px;
+width:120px;
+height:30px;
 background-color:yellow;
 /* Rotate div */
 transform:rotate(9deg);
