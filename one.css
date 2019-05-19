@@ -48,3 +48,9 @@ transform:rotate(9deg);
 -webkit-transform:rotate(9deg); /* Safari 和 Chrome */
 -o-transform:rotate(9deg); /* Opera */
 }
+
+h1
+{
+text-shadow: 5px 5px 5px #FF0000;
+}
+
