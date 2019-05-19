@@ -1,0 +1,40 @@
+#BODY{
+    margin: 0 15%;
+    background: #F0F0F0;
+    font: 16px "Microsoft YaHei", sans-serif;
+}
+article {
+    padding: 0 2em;
+}
+ 
+#P_V {
+    margin: 0;
+    text-align: center;
+}
+#Photo {
+    margin: 0 2em;/**/
+}
+#Video {
+    margin: 0 2em;/**/
+}
+ 
+.Word p{
+    text-indent: 2em;
+}
+textarea {
+    display: block;
+    /*margin: 0 2em;*/
+    width: 100%;
+    height: 100px;
+}
+footer {
+    height: 70px;
+    background: #8E8CD8;
+    text-align: center;
+ 
+}
+footer p {
+    color: white;
+    font: 13px serif;
+    line-height: 70px;
+}
