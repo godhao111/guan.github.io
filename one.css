@@ -56,7 +56,7 @@ text-shadow: 5px 5px 5px #FF0000;
 
 .b
 {
-width:100px;
+width:400px;
 height:100px;
 background:yellow;
 transition:width 2s, height 2s;
@@ -67,7 +67,7 @@ transition:width 2s, height 2s;
 
 .b:hover
 {
-width:200px;
+width:400px;
 height:200px;
 transform:rotate(180deg);
 -moz-transform:rotate(180deg); /* Firefox 4 */
