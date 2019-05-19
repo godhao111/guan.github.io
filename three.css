@@ -1,0 +1,14 @@
+#BODY{
+    margin: 0 15%;
+    background: #F0F0F0;
+    font: 16px "Microsoft YaHei", sans-serif;
+}
+#Contact p br::before{
+    content:"    ";
+}
+#Bottom {
+    text-align: center;
+}
+#Bottom a:link, #Bottom a:visited{
+    color: #8E8CD8;
+}
